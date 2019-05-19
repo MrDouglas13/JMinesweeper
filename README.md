@@ -7,4 +7,4 @@ How to play:
 2. Unzip
 3. Run JMinesweeper.jar
 
-If you just want to play the game, you only need the font and images folder, the two .txt files and the .jar file.
+If you just want to play the game, you only need the `font` and `images` folder, the two .txt files and the .jar file.
