@@ -1,7 +1,7 @@
 # JMinesweeper
 A Minesweeper game written in Java.
 
-How to play:
+### How to play:
 
 1. Download as a ZIP
 2. Unzip
